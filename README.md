@@ -23,10 +23,8 @@ I have build a DCGAN model to generate fake anime characters. The Adaptive Momen
 
 ## Results
 
-### Generated fake image
 ![image](https://user-images.githubusercontent.com/71747522/124358209-e3a01600-dc3c-11eb-9754-d86f066daa21.png)
 
-### FID Score
 The computed FID score is:  474.022
 
 ## Scope for improvement
@@ -43,4 +41,4 @@ Now that we know how to calculate FID Score, we can employ this into the network
 
 
 
-Credits [Ayush Thakur](https://wandb.ai/ayush-thakur/gan-evaluation/reports/How-to-Evaluate-GANs-using-Frechet-Inception-Distance-FID---Vmlldzo0MTAxOTI)
+Credits for FID score [Ayush Thakur](https://wandb.ai/ayush-thakur/gan-evaluation/reports/How-to-Evaluate-GANs-using-Frechet-Inception-Distance-FID---Vmlldzo0MTAxOTI)
