@@ -1,4 +1,4 @@
-# Evaluation-Metric-for-GAN's
+# Evaluation Metric for GAN's
 The evaluation of supervised image classification is simple. The projected output must be compared to the actual production. To get this fake(generated) image, though, you use a GAN and some random noise. This created image should appear as authentic as possible. So, how do you measure the reality of this computer-generated image? Or, to put it another way, how can you assess GAN?
 
 ## Frechet Inception Distance(FID) Score
@@ -25,4 +25,4 @@ where X and Y are the real and fake embeddings. μX  and μY are the magnitudes 
 
 
 
-Credits [Ayush Thakur](https://wandb.ai/ayush-thakur)
+Credits [Ayush Thakur](https://wandb.ai/ayush-thakur/gan-evaluation/reports/How-to-Evaluate-GANs-using-Frechet-Inception-Distance-FID---Vmlldzo0MTAxOTI)
